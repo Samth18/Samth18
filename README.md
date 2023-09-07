@@ -1,4 +1,4 @@
-###  Hi👋!! How's it going? I'm Samuel Escobar Rivera
+### 👋 Hi!! How's it going? I'm Samuel Escobar Rivera
 
 - 🔭 I’m currently studying on Universidad del Valle
 - 🌱 I’m currently learning about diferents programming languages
