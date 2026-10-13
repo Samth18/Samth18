@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel Escobar Rivera 👋
 
-### 🎓 Systems Engineering Student & Backend / Software Developer
+### 🎓 Systems Engineering Student & Software Developer
 I am a Systems Engineering student at **Universidad del Valle (Colombia)** passionate about building scalable backend applications, full-stack development, machine learning, and cybersecurity.
 
 ---
