@@ -1,11 +1,37 @@
-### 👋 Hi!! How's it going? I'm Samuel Escobar Rivera
+# Hi there, I'm Samuel Escobar Rivera 👋
 
-- 🔭 I’m currently studying on Universidad del Valle
-- 🌱 I’m currently learning about diferents programming languages
-- ⚡ Fun fact: The one piece is real!
-<!-- 👯 I’m looking to collaborate on ... -->
-<!-- 🤔 I’m looking for help with ...-->
-<!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...-->
+### 🎓 Systems Engineering Student & Backend / Software Developer
+I am a Systems Engineering student at **Universidad del Valle (Colombia)** passionate about building scalable backend applications, full-stack development, machine learning, and cybersecurity.
 
+---
+
+### 💻 Tech Stack & Skills
+
+**Languages & Backend Development:**
+`Python` • `Java` • `TypeScript` • `JavaScript` • `C++` • `NestJS` • `Spring Boot` • `Node.js`
+
+**Frontend & Mobile:**
+`React` • `React Native` • `Next.js`
+
+**Databases & Infrastructure:**
+`PostgreSQL` • `MySQL` • `Supabase` • `Redis` • `Docker` • `Linux (Debian/Kali)`
+
+**Security & Data Science:**
+`Suricata` • `Wireshark` • `Scikit-learn` • `XGBoost`
+
+---
+
+### ⚡ What I'm Up To
+- 🔭 **Currently:** Building and developing **[RouteFlow-SaaS](https://github.com/ImMavz/RouteFlow-SaaS.git)**, focusing on robust architecture and scalable features.
+- 🧪 **Exploring:** Software testing methodologies, automated unit/integration testing, and quality assurance.
+- 🌱 **Learning:** Advanced cybersecurity architectures, network traffic analysis, and system optimization.
+
+---
+
+### 📫 Connect with Me
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://linkedin.com/in/tu-usuario)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:tu-correo@gmail.com)
+
+---
+*⚡ "The One Piece is real!"*
